@@ -14,7 +14,7 @@ https://docs.google.com/spreadsheets/d/1EWFGrpXbZGdYtCbVslLM7N4TFa2e_8shbxX79FZ9
 * SCHIENA 1 
 #### Colazione
 * Tazza acqua calda e limone
-* 1 Caffe - 
+* 1 Caffe
 * 1 Estratto o Frullato verza viola e carotene 
 * 1 Proteina 
 * 1 Cereale circa 40 Gr 
