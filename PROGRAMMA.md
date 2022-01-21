@@ -3,7 +3,7 @@
 Link Allenamento  
 https://docs.google.com/spreadsheets/d/1EWFGrpXbZGdYtCbVslLM7N4TFa2e_8shbxX79FZ9liI/edit?usp=sharing
 
-# MATTINA
+# <span style="color:blue">MATTINA</span>
 
 ### Ore 6
 * 2 minuti doccia ghiacciata
