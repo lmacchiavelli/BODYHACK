@@ -6,14 +6,14 @@ https://docs.google.com/spreadsheets/d/1EWFGrpXbZGdYtCbVslLM7N4TFa2e_8shbxX79FZ9
 # MATTINA
 
 ### Ore 6
-2 minuti doccia ghiacciata
-1 lt di acqua con limone in 1 ora
-Stretching di 3.30 BRACCIA 1 GAMBE 1 SCHIENA 1
-  Colazione
-  1 Caffe - 
-  1 Estratto o Frullato verza viola e carotene 
-  1 Proteina 
-  1 Cereale circa 40 Gr 
+* 2 minuti doccia ghiacciata
+* 1 lt di acqua con limone in 1 ora
+* Stretching di 3.30 BRACCIA 1 GAMBE 1 SCHIENA 1
+  * Colazione
+  * 1 Caffe - 
+  * 1 Estratto o Frullato verza viola e carotene 
+  * 1 Proteina 
+  * 1 Cereale circa 40 Gr 
 
 ### ore 8
 Allenamento di 4 BRACCIA
